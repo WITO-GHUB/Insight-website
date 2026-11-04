@@ -1,1 +1,1 @@
-https://github.com/WITO-GHUB/Insight-website.git
+https://wito-ghub.github.io/Insight-website/
